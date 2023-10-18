@@ -1,0 +1,14 @@
+{
+  "name": "new-react-component",
+  "version": "1.0.0",
+  "description": "A CLI tool to create files for a React component (JSX, CSS module, index.js)",
+  "main": "index.js",
+  "bin": {
+    "newreactcomp": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "J Betts",
+  "license": "ISC"
+}
